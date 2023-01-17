@@ -1,0 +1,52 @@
+/* para todo*/ 
+
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: bisque;
+}
+
+/* para encabezados*/ 
+
+
+h1 {
+    color: coral;
+    font-size: xx-large;
+}
+
+h2 {
+    color:firebrick;
+    font-size: x-large;   
+}
+
+h3 {
+    color:maroon;
+    font-size: larger;
+}
+
+h4 {
+    font-size: large;
+    color:brown;
+}
+
+/* para párrafos*/ 
+
+p {
+    color: chocolate;
+    font-size: larger;
+}
+
+/* para listas */
+
+ol,
+ul{
+    color:crimson;
+    font-size: medium;
+}
+
+/* imagenes */
+
+img {
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
+}
